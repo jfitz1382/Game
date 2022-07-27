@@ -16,7 +16,7 @@ public class main {
 		
 		ImageIcon image = new ImageIcon("img/menubkg.jpg");
 		frame.setIconImage(image.getImage());
-		frame.getContentPane().setBackground(new Color(0xD1692E));
+//		frame.getContentPane().setBackground(new Color(0xD1692E));
 	}
 	
 }
